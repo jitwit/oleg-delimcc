@@ -1,0 +1,3 @@
+Oleg Kiselyov's delimcc scheme library
+
+[[http://okmij.org/ftp/continuations/implementations.html#delimcc-scheme][http://okmij.org/ftp/continuations/implementations.html#delimcc-scheme]]
